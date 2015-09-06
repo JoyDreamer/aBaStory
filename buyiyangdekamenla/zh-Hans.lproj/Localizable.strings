@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  aBaStory
+
+  Created by joyce on 15/7/7.
+
+*/
+CFBundleDisplayName = "阿爸故事";
+"ok" = "确定";
+"cancel" = "取消";
+
+"storiesKey" = "故事集";
+"buyiyangdekameila" = "不一样的卡梅拉";
+
+"nextStep" = "下一步";
+"addStory" = "添加";
+"start" = "开始";
+
+"prePage" = "前一页";
+"indexPage" = "回首页";
+"nextPage" = "下一页";
+
+"addImage" = "加图片";
+"addRecord" = "加录音";
+"playRecord" = "播放录音";
+
+"fromCamera" = "从照相机";
+"fromPhoto" = "从照片库";
+
+"fromRecord" = "从录音";
+"fromAudioFile" = "从音频文件";
+
+"startRecord" = "开始录音";
+"pauseRecord" = "暂停录音";
+"resumeRecord" = "恢复录音";
+"stopRecord" = "停止录音";
+
+"noInfoTips" = "无文件，请创建！";

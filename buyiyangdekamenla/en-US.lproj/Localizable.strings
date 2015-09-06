@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  aBaStory
+
+  Created by joyce on 15/7/7.
+
+*/
+CFBundleDisplayName = "aBaStory";
+"ok" = "OK";
+"cancel" = "Cancel";
+
+"storiesKey" = "stories";
+"buyiyangdekameila" = "buyiyangdekamenla";
+
+"nextStep" = "Next Step";
+"addStory" = "Add Story";
+"start" = "start";
+
+"prePage" = "Previous Page";
+"indexPage" = "Index Page";
+"nextPage" = "Next Page";
+
+"addImage" = "Add Image";
+"addRecord" = "Add Record";
+"playRecord" = "Play Record";
+
+"fromCamera" = "From Camera";
+"fromPhoto" = "From Photo";
+
+"fromRecord" = "From Record";
+"fromAudioFile" = "From Audio File";
+
+"startRecord" = "Start Record";
+"pauseRecord" = "Pause Record";
+"resumeRecord" = "Resume Record";
+"stopRecord" = "Stop Record";
+
+"noInfoTips" = "No file, please created!";
